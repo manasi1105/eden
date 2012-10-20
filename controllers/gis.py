@@ -7,6 +7,8 @@
 module = request.controller
 resourcename = request.function
 
+djkshkfdsjkfjkldsjklsdfjklfds;
+
 # -----------------------------------------------------------------------------
 def index():
     """
